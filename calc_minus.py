@@ -1,5 +1,5 @@
 def calc(a, b):
-        return a - b
+        return a / b
 
 def call_calc():
     try:
